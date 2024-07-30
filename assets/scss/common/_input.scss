@@ -1,0 +1,18 @@
+.ant-input:focus {
+    border-color: $color-primary;
+}
+
+.ant-input:hover {
+    border-color: $color-primary;
+}
+
+.ant-form-item .ant-form-item-explain-error {
+    font-size: 0.75rem;
+    font-weight: 400;
+    line-height: 1.25rem;
+    padding-top: 6px;
+}
+
+.ant-form-item-has-error .ant-form-item-control{
+    margin-bottom: 1rem;
+}

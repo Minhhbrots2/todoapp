@@ -1,0 +1,56 @@
+body {
+    margin: 0 !important;
+}
+
+h1 {
+    font-size: 2rem !important;
+    font-weight: 700;
+    line-height: 3rem;
+    text-align: left;
+}
+
+h2 {
+    font-size: 1.5rem !important;
+    font-weight: 700;
+    line-height: 2.5rem;
+    text-align: left;
+}
+
+h3 {
+    font-size: 1.25rem !important;
+    font-weight: 700;
+    line-height: 2rem;
+    text-align: left;
+}
+
+h4 {
+    font-size: 1rem !important;
+    font-weight: 700;
+    line-height: 1.5rem;
+    text-align: left;
+}
+
+h5 {
+    font-size: 1rem !important;
+    font-weight: 600;
+    line-height: 1.5rem;
+    text-align: left;
+}
+
+.ant-list .ant-list-item .ant-list-item-meta .ant-list-item-meta-title {
+    margin: 0 !important;
+}
+
+.ant-spin-container svg{
+    fill: $color-primary;
+    width: 1.25rem;
+    height: 1.25rem;
+}
+
+.ant-spin{
+    color: $color-primary !important;
+}
+
+.ant-spin .ant-spin-dot-item{
+    background: $color-primary !important;
+}
